@@ -1,0 +1,8 @@
+streamlit>=1.38
+pandas>=2.2
+numpy>=1.26
+networkx>=3.2
+faker>=26.0
+tqdm>=4.66
+reportlab>=4.2
+python-dateutil>=2.9

@@ -1,0 +1,16 @@
+classroom_id,building_name,room_number,capacity,room_type
+1,Bldg O,196,39,Seminar
+2,Bldg D,264,44,Seminar
+3,Bldg D,129,130,Lab
+4,Bldg Y,416,287,Auditorium
+5,Bldg V,359,43,Lab
+6,Bldg H,133,129,Lecture Hall
+7,Bldg A,188,59,Auditorium
+8,Bldg K,321,281,Lecture Hall
+9,Bldg L,315,212,Lecture Hall
+10,Bldg U,420,235,Seminar
+11,Bldg Z,206,222,Lecture Hall
+12,Bldg J,468,207,Auditorium
+13,Bldg R,277,238,Lab
+14,Bldg Q,428,32,Lecture Hall
+15,Bldg L,195,263,Auditorium
