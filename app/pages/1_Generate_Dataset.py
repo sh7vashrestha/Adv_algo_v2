@@ -9,7 +9,7 @@ import pandas as pd
 
 from core.data_generator import generate_synthetic_dataset
 
-st.title("🧮 Generate Dataset")
+st.title("Generate Dataset")
 
 with st.form("gen_form"):
     c1, c2, c3, c4 = st.columns(4)

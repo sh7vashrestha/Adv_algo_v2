@@ -1,0 +1,51 @@
+classroom_id,building_name,room_number,capacity,room_type
+1,Bldg F,302,102,Seminar
+2,Bldg G,320,68,Auditorium
+3,Bldg I,197,183,Seminar
+4,Bldg O,299,267,Lab
+5,Bldg N,217,277,Lab
+6,Bldg I,373,55,Lab
+7,Bldg S,417,117,Lab
+8,Bldg B,360,71,Lecture Hall
+9,Bldg P,100,113,Seminar
+10,Bldg R,495,174,Lecture Hall
+11,Bldg L,109,105,Seminar
+12,Bldg W,498,48,Auditorium
+13,Bldg D,112,167,Auditorium
+14,Bldg K,306,44,Lecture Hall
+15,Bldg R,142,91,Auditorium
+16,Bldg N,137,30,Lecture Hall
+17,Bldg P,372,53,Lab
+18,Bldg V,390,147,Lecture Hall
+19,Bldg H,147,259,Lecture Hall
+20,Bldg I,489,239,Lecture Hall
+21,Bldg Z,227,56,Lecture Hall
+22,Bldg E,227,39,Auditorium
+23,Bldg L,218,121,Lecture Hall
+24,Bldg P,284,206,Lab
+25,Bldg W,170,231,Seminar
+26,Bldg L,269,252,Auditorium
+27,Bldg J,183,122,Auditorium
+28,Bldg A,120,75,Lecture Hall
+29,Bldg U,247,37,Auditorium
+30,Bldg T,368,69,Seminar
+31,Bldg B,404,47,Lecture Hall
+32,Bldg X,240,262,Lab
+33,Bldg V,229,102,Auditorium
+34,Bldg Z,414,252,Lab
+35,Bldg B,371,179,Lecture Hall
+36,Bldg W,432,175,Auditorium
+37,Bldg Z,461,152,Auditorium
+38,Bldg V,427,251,Auditorium
+39,Bldg H,473,41,Auditorium
+40,Bldg I,266,55,Auditorium
+41,Bldg R,257,144,Lab
+42,Bldg M,228,136,Lecture Hall
+43,Bldg J,193,177,Seminar
+44,Bldg U,398,229,Lecture Hall
+45,Bldg W,385,188,Lab
+46,Bldg L,419,99,Seminar
+47,Bldg Z,166,118,Auditorium
+48,Bldg V,296,233,Lab
+49,Bldg D,188,84,Lab
+50,Bldg R,456,166,Seminar

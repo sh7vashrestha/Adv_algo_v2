@@ -1,13 +1,3 @@
-"""
-graph_builder.py
-----------------
-Builds an exam conflict graph from enrollments.
-
-Each node = course_id
-An edge exists between two courses if at least one student is enrolled in both.
-Handles alphanumeric IDs (e.g., CS0291) and ensures every course is represented.
-"""
-
 import pandas as pd
 import networkx as nx
 

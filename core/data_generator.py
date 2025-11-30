@@ -167,8 +167,8 @@ def generate_synthetic_dataset(
                 has_long_exam = True
             else:
                 dur = int(rng.choice(
-                    [60, 75, 90, 105, 120, 150],
-                    p=[0.1, 0.15, 0.3, 0.15, 0.2, 0.1]
+                        [90, 105, 120, 150, 180],
+                        p=[0.25, 0.25, 0.2, 0.2, 0.1]
                 ))
 
             earliest_start = start_hour * 60
