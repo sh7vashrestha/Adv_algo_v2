@@ -101,7 +101,7 @@ def generate_synthetic_dataset(
         "exam_duration_min": rng.choice(
             [60, 90, 120, 150, 180],
             size=n_courses,
-            p=[0.1, 0.2, 0.4, 0.2, 0.1]
+            p=[0.1, 0.2, 0.45, 0.2, 0.05]
         ),
     })
     courses.to_csv(os.path.join(outdir, "courses.csv"), index=False)
@@ -168,7 +168,7 @@ def generate_synthetic_dataset(
             else:
                 dur = int(rng.choice(
                         [90, 105, 120, 150, 180],
-                        p=[0.25, 0.25, 0.2, 0.2, 0.1]
+                        p=[0, 0, 0.025, 0.025, 0.95]
                 ))
 
             earliest_start = start_hour * 60
