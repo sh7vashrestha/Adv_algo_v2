@@ -92,4 +92,3 @@ def compare_algorithms(results_dict, outpath="outputs/algorithm_comparison.png")
     plt.savefig(outpath, dpi=200, bbox_inches="tight")
     plt.close()
     return outpath
-
